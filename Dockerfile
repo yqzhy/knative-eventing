@@ -1,1 +1,1 @@
-FROM gcr.io/cadvisor/cadvisor:v0.39.2
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/controller@sha256:21be5dd3b6844df31f67d575e0bf6a69a976394df910bacd3ffe899d6431313b
